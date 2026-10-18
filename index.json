@@ -1,0 +1,11 @@
+{
+  "org": "spulec",
+  "repo": "freezegun",
+  "versions": [
+    {
+      "commit": "92d61b3f5c31942a1039713574487bdcfcdbbfff",
+      "tag": "",
+      "parsed_at": "2026-10-18T05:22:03.504911+00:00"
+    }
+  ]
+}

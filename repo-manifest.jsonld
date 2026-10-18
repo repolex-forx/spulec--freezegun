@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/spulec/freezegun/commit/92d61b3f5c31942a1039713574487bdcfcdbbfff",
       "git:hexsha": "92d61b3f5c31942a1039713574487bdcfcdbbfff",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T05:22:03.454508+00:00"
     },
     {
       "@id": "https://repolex.ai/r/spulec/freezegun/commit/ebd2ef89474ebf52753639dabf56442adedf8119",
